@@ -3,7 +3,7 @@ Created with CodeSandbox
 
 ![4](https://user-images.githubusercontent.com/37132897/157815186-ff962af2-1fc7-4c79-ba00-cdc425a9a0fe.JPG)
 ![5](https://user-images.githubusercontent.com/37132897/157815181-fa1b1e2c-fbe1-4b04-ba74-a33b968fddcc.JPG)
-이미지 : 초록색버튼 이었다가, 커서를 갖다대면 빨간색 배경을 가진것이 올라오는 화면.
+- 이미지 : 초록색버튼 이었다가, 커서를 갖다대면 빨간색 배경을 가진것이 올라오는 애니메이션.
 
 - position: relative; : 기준점 이동 시킬 수 있다.
 - overflow: hidden; : 글자가 칸을 넘어가면 안보이게
